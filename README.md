@@ -1,2 +1,2 @@
 #demo
-this is sample!
+this is sample.
