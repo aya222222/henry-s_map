@@ -1044,7 +1044,10 @@ form input:focus, form textarea:focus
          /* animation: none; */
          background-position: 28% 0%;
      }
-    
+  
+    .intro::after {
+     animation: none;
+  }
     .form-section1 p {
         flex-direction:column;
         width:60%;
