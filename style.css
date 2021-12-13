@@ -287,7 +287,7 @@ body {
 }
 
 .content-4 {
-    background-image: url('../henry_map/img/henry4.jpg');
+    background-image: url('/img/henry4.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center top;
