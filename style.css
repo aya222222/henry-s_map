@@ -146,7 +146,7 @@ body {
     left:10%;
     width:100%;
     height:100%;
-    background-image: url('../henry_map/img/henry3.jpg') ;
+    background-image: url('/img/henry3.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -265,7 +265,7 @@ body {
 }
 
 .content-2 {
-    background-image: url('../henry_map/img/henry1.jpg');
+    background-image: url('/img/henry1.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center top;
