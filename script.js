@@ -297,7 +297,7 @@ function initMap(){
       [ {lat: 31.270499, lng: -85.502041},	"August 24, 1979",	"Dothan, AL",	"Laura A. Fulford W/F/25",	"Abducted; shot twice with .38. Ottis Toole only."],
       [ {lat: 30.492242, lng: -97.772674},	"September 03, 1979",	"Austin, TX",	"Sharon Schillings W/F/27",	"Shot once with .410. <br>Vehicle: Cadillac. Ottis Toole only."],
       [ {lat: 29.830407, lng: -94.995364},	"September 29, 1979",	"Harris County, TX",	"Russel Curtis King W/M/57",	"Struck in head with pipe. Toole only."],
-      [ {lat: 30.334662, lng: -97.724608},	"October 02, 1979",	"Travis County, TX",	"Sandra Dubbs  W/F/34",	"Stabbed 35 times; body mutilated. <br>Accomplice: Ottis Toole. ","1010 Karen Ave, Austin"],
+      [ {lat: 30.334662, lng: -97.724608},	"October 02, 1979",	"Travis County, TX",	"Sandra Dubbs  W/F/34",	"Stabbed 35 times; body mutilated. <br>Accomplice: Ottis Toole. ","1010 Karen Ave"],
       [ {lat: 31.063951, lng: -85.00061},	"October 04, 1979",	"Seminole County, GA",	"Mazie Lee Seymore W/F/56",	"Shot once with .30 cal. Rifle. <br>Accomplice: Ottis Toole.","5132 J Q Harvey Rd"],
       [ {lat: 40.847034, lng: -98.000692},	"October 05, 1979",	"Hamilton County, NE",	"Brian Lee Byrum W/M/22",	"Several blows to head with machete. <br>Accomplice: Ottis Toole.","1517 11th St"],
       [ {lat: 31.267582, lng: -81.573351},	"October 08, 1979",	"Glynn County, GA",	"William Dale Willis W/M/17",	"Shot once with .35 cal. Rifle. <br>Accomplice: Ottis Toole.","451-449 McKenzie Dr"],
