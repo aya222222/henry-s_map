@@ -146,7 +146,7 @@ body {
     left:10%;
     width:100%;
     height:100%;
-    background-image: url('../henry_map/img/henry3.jpg') ;
+    background-image: url('/img/henry3.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -265,7 +265,7 @@ body {
 }
 
 .content-2 {
-    background-image: url('../henry_map/img/henry1.jpg');
+    background-image: url('/img/henry1.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center top;
@@ -287,7 +287,7 @@ body {
 }
 
 .content-4 {
-    background-image: url('../henry_map/img/henry4.jpg');
+    background-image: url('/img/henry4.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center top;
@@ -808,7 +808,7 @@ form label {
 }
 
 .form-section1 {
-    width:70%;
+    width:100%;
     margin: 0 auto;
 }
 
@@ -1026,7 +1026,7 @@ form input:focus, form textarea:focus
 }
 
 
-.text-message {
+.text-message, .form-section1 {
     margin: 0 auto;
     width:70%;
 }
@@ -1044,7 +1044,10 @@ form input:focus, form textarea:focus
          /* animation: none; */
          background-position: 28% 0%;
      }
-    
+  
+    .intro::after {
+     animation: none;
+  }
     .form-section1 p {
         flex-direction:column;
         width:60%;
