@@ -435,6 +435,7 @@ footer {
     align-items: center;
     justify-content: center;
     transition-duration: 0.2s;
+    cursor: pointer;
 }
 
 .information-tag:hover {
