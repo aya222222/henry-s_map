@@ -18,25 +18,25 @@
        
           <nav class="nav">
            <div class="title">
-               <h4><a href="main.html">Henry's Map</a></h4>
+               <h4><a href="home">Henry's Map</a></h4>
            </div>
             <ul class="nav-links">
                <li>
-                   <a href="main.html"> HOME</a>
+                   <a href="home"> HOME</a>
                </li>
                <li>
-                   <a href="about.html">ABOUT
+                   <a href="about">ABOUT
                         Henry Lee
                          Lucas</a>
                </li>
                <li>
-                   <a href="index.html"> MAP</a>
+                   <a href="map"> MAP</a>
                </li>
                <li>
-                   <a href="chronology.html">Chronology</a>
+                   <a href="chronology">Chronology</a>
                </li>
                <li>
-                   <a href="contact.html">CONTACT</a>
+                   <a href="contact">CONTACT</a>
                </li>
             </ul>
             <div class="hamburger">
