@@ -21,35 +21,35 @@
  
        
         <nav class="nav">
-           <div class="title">
-               <h4><a href="main.html">Henry's Map</a></h4>
-           </div>
-            <ul class="nav-links">
-               <li>
-                   <a href="main.html"> HOME</a>
-               </li>
-               <li>
-                   <a href="about.html">ABOUT
-                        Henry Lee
-                         Lucas</a>
-               </li>
-               <li>
-                   <a href="index.html"> MAP</a>
-               </li>
-               <li>
-                   <a href="chronology.html">Chronology</a>
-               </li>
-               <li>
-                   <a href="contact.html">CONTACT</a>
-               </li>
-            </ul>
-            <div class="hamburger">
-               <div class="line line1"></div>
-               <div class="line line2"></div>
-               <div class="line line3"></div>
-           </div>
-            
-        </nav>
+            <div class="title">
+                <h4><a href="home">Henry's Map</a></h4>
+            </div>
+             <ul class="nav-links">
+                <li>
+                    <a href="home"> HOME</a>
+                </li>
+                <li>
+                    <a href="about">ABOUT
+                         Henry Lee
+                          Lucas</a>
+                </li>
+                <li>
+                    <a href="map"> MAP</a>
+                </li>
+                <li>
+                    <a href="chronology">Chronology</a>
+                </li>
+                <li>
+                    <a href="contact">CONTACT</a>
+                </li>
+             </ul>
+             <div class="hamburger">
+                <div class="line line1"></div>
+                <div class="line line2"></div>
+                <div class="line line3"></div>
+            </div>
+             
+         </nav>
        </div>
    
   <div class="map-title">
@@ -57,7 +57,7 @@
         <p class="title-text">You can see what his "murder journey" is like by clicking "show" button in each years below.<br>
         Each journeys are not impossible if he rarely sleeps, drops by gas stations or restaurants.<br>
          But, there are many evidences or witnesses that show he didn't commit these cases.<br>
-        For further information, you can take a look <a href="file:///D:/xamp/htdocs/my_projects/henry_map/chronology.html#">chronology</a>. </p>
+        For further information, you can take a look <a href="chronology">chronology</a>. </p>
         <div class="freespace"></div>
   </div>
 
@@ -396,5 +396,3 @@
 </div>
 </footer>
 </html>
-
-
