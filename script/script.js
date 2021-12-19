@@ -357,7 +357,7 @@ function initMap(){
       [ {lat: 30.166956, lng: -89.67593},	"October 18, 1980",	"New Orleans, LA",	"Barnie ray Fincher W/M/41",	"Beaten, kicked, stabbed, larynx crushed. <br>Accomplice: Ottis Toole."],
       [ {lat: 38.138711, lng: -117.295829},	"October 22, 1980",	"Tonopah, NV",	"Unknown W/M/50 to 51 ",	"4 gunshot wounds to head. Body found this date."],
       [ {lat: 39.632105, lng: -103.776801},	"October 25, 1980",	"Arapahce County, CO",	"Violet Newman W/F/54",	"Shot once in head with .22. Vehicle:1973 Olds Vista Cruiser. <br>Accomplice: Ottis Toole. "],
-      [ {lat: 37.649322, lng: -122.00893},	"October 30, 1980",	"Hayward,  CA",	"Carmen Rivera ?/F/?",	"Stabbed. Lucas considered suspect.","83 Country Club Dr"],
+      [ {lat: 37.649322, lng: -122.00893},	"October 30, 1980",	"Hayward,  CA",	"Carmen Rivera ?/F/?",	"Stabbed. Lucas considered suspect.","117 Sonas Dr"],
       [ {lat: 30.799808, lng: -95.552756},	"November 01, 1980",	"Walker County, TX",	"Unknown ",	"Beaten, strangled.","104-170 FM 2628"],
       [ {lat: 30.851764, lng: -97.731829},	"November 04, 1980",	"Williamson County, TX",	"Mildred McKinney W/F/74",	"Beaten and strangled. Accomplices: Ottis Toole, <br>Freida Powell, Frank Powell. "],
       [ {lat: 30.764652, lng: -94.740153},	"November 14, 1980",	"Polk County, TX",	"Unknown W/M/35 to 40",	"Unknown. Accomplice: Ottis Toole."],
