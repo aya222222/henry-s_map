@@ -9,5 +9,5 @@ You can see all case on google map  which Henry confessed to. I used google MAP 
 google map API
 
 # build/deploy instructions
-Click each year, then the cases in the year show up. 
+In Map page, click each year, then the cases in the year show up. 
 Click each case, it shows route, duration, detail of the case.
